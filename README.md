@@ -1,5 +1,5 @@
 # Coding
-coding, learning algorithm and datastruct.
+coding, learning algorithm and data structure.
 
 # OJ
 0. [ZOJ](https://zoj.pintia.cn/)
@@ -13,4 +13,4 @@ coding, learning algorithm and datastruct.
 8. OTHERS
 
 ---
-> author:alun2kb
+> author : alun2kb
