@@ -1,4 +1,4 @@
-# coding
+# Coding
 coding, learning algorithm and datastruct.
 
 # OJ
@@ -11,3 +11,6 @@ coding, learning algorithm and datastruct.
 6. [Virtual Judge](https://vjudge.net/)
 7. [LOJ](https://loj.ac/)
 8. OTHERS
+
+---
+> author:alun2kb
